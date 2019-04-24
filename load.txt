@@ -10,5 +10,10 @@
 /loadsprite sprAreaBackCol image/sprAreaBackCol_strip8.png
 /loadsprite sprBones image/sprBones_strip2.png
 /loadsprite sprAmmo image/sprAmmo_strip7.png
+/loadsprite sprCursedAmmo image/sprCursedAmmo_strip7.png
 /loadsprite sprAmmoChest image/sprAmmoChest_strip7.png
 /loadsprite sprAmmoChestOpen image/sprWeaponChestOpen.png
+/loadsprite sprCactus2 image/sprCactus2.png
+/loadsprite sprCactus2Hurt image/sprCactus2Hurt_strip3.png
+/loadsprite sprCactus2Dead image/sprCactus2Dead_strip4.png
+/loadsprite sprHP image/sprHP_strip7.png
