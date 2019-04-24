@@ -1,0 +1,14 @@
+/loadsprite sprWeaponChest image/sprWeaponChest_strip7.png
+/loadsprite sprWeaponChestOpen image/sprWeaponChestOpen.png
+/loadsprite sprFloor1 image/sprFloor1_strip4.png
+/loadsprite sprWall1Top image/sprWall1Top_strip8.png
+/loadsprite sprWall1Bot image/sprWall1Bot_strip4.png
+/loadsprite sprWall1Trans image/sprWall1Trans_strip8.png
+/loadsprite sprWall1Out image/sprWall1Out.png
+/loadsprite sprFloor1B image/sprFloor1B_strip4.png
+/loadsprite sprFloor1Explo image/sprFloor1Explo_strip4.png
+/loadsprite sprAreaBackCol image/sprAreaBackCol_strip8.png
+/loadsprite sprBones image/sprBones_strip2.png
+/loadsprite sprAmmo image/sprAmmo_strip7.png
+/loadsprite sprAmmoChest image/sprAmmoChest_strip7.png
+/loadsprite sprAmmoChestOpen image/sprWeaponChestOpen.png
