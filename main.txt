@@ -43,3 +43,12 @@
 /loadsprite sprEnemyBulletHit image/sprEnemyBulletHit_strip4.png
 /loadsprite sprEnemyBullet4 image/sprEnemyBullet4_strip2.png
 /loadsprite sprEnemySlash image/sprEnemySlash_strip3.png
+/loadsprite sprCactusB3Dead image/sprCactusB3Dead_strip4.png
+/loadsprite sprCactusB3Hurt image/sprCactusB3Hurt_strip3.png
+/loadsprite sprCactusB3 image/sprCactusB3.png
+/loadsprite sprCactusB2Dead image/sprCactusB2Dead_strip4.png
+/loadsprite sprCactusB2Hurt image/sprCactusB2Hurt_strip3.png
+/loadsprite sprCactusB2 image/sprCactusB2.png
+/loadsprite sprCactusBDead image/sprCactusBDead_strip4.png
+/loadsprite sprCactusBHurt image/sprCactusBHurt_strip3.png
+/loadsprite sprCactusB image/sprCactusB.png
