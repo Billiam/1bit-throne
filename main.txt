@@ -57,3 +57,6 @@
 /loadsprite sprBigSkullOpenHurt image/sprBigSkullOpenHurt_strip3.png
 /loadsprite sprBigSkullOpen image/sprBigSkullOpen.png
 /loadsprite sprBigSkullDead image/sprBigSkullDead_strip3.png
+/loadsprite sprBonePileIdle image/sprBonePileIdle.png
+/loadsprite sprBonePileDead image/sprBonePileDead_strip4.png
+/loadsprite sprBonePileHurt image/sprBonePileHurt_strip3.png
