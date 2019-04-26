@@ -53,6 +53,9 @@
 /loadsprite sprCactusBDead image/sprCactusBDead_strip4.png
 /loadsprite sprCactusBHurt image/sprCactusBHurt_strip3.png
 /loadsprite sprCactusB image/sprCactusB.png
+/loadsprite sprRadChestMaggotDead image/sprRadChestMaggotDead_strip4.png
+/loadsprite sprRadChestMaggot image/sprRadChestMaggot_strip15.png
+/loadsprite sprRadChestMaggotHurt image/sprRadChestMaggotHurt_strip3.png
 /loadsprite sprBigSkull image/sprBigSkull.png
 /loadsprite sprBigSkullHurt image/sprBigSkullHurt_strip3.png
 /loadsprite sprBigSkullOpenHurt image/sprBigSkullOpenHurt_strip3.png
